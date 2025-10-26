@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">Full-stack developer skilled in Java, Spring Boot, React, and Python, with hands-on experience building secure authentication systems, scalable RESTful APIs, and responsive UIs through academic and self-driven projects. Proficient in JWT-based authorization, database optimization, and modular backend design. Comfortable navigating MERN, Java Full-Stack, Python Web, and LAMP environments.</h3>
+<h3 align="center">Full-stack developer skilled in Java, Spring Boot, React, and Python, with hands-on experience building secure authentication systems, scalable RESTful APIs, and responsive UIs through academic and self-driven projects.</h3>
 
 </p>
 
