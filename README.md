@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">Full-stack developer skilled in Java, Spring Boot, React, and Python, with hands-on experience building secure authentication systems, scalable RESTful APIs, and responsive UIs through academic and self-driven projects. Proficient in JWT-based authorization, database optimization, and modular backend design. Comfortable navigating MERN, Java Full-Stack, Python Web, and LAMP environments.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sutaryash32" alt="sutaryash32" /></a> </p>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
